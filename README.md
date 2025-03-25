@@ -24,12 +24,6 @@ Please enter a number higher than 2:
 [0, 1, 1, 2, 3, 5, 8]
 ```
 
-## Function Details
-### `fibonacci_generator(n)`
-#### Parameters:
-- `n`: A string representing a number (to accommodate user input handling).
-
-
-#### Error Handling:
+#### Errors:
 - If `n` is not a number, prints an error message.
 - If `n` is less than 3, prints an error message.
